@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.instagram.com/_.gouravarora._/?hl=en/">
-  <img align="left" alt="gourav's instagram" src="https://img.icons8.com/dusk/64/000000/instagram.png"/>
+  <img align="left" alt="gourav's instagram" src="https://img.icons8.com/dusk/2x/50/instagram.png"/>
 </a>
 
 
