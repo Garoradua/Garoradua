@@ -1,0 +1,19 @@
+<h2> Hey, I'm Gourav! <img src="https://i.pinimg.com/originals/61/fd/36/61fd36ed2b95912eb2d4b9e21f5e3535.gif" width="100"></h2>
+
+
+🔭 Computer Science student with a demonstrated history of working on several projects. Skilled in various domains of Computer Science with a Bachelor of Technology - BTech in CSE with specialization in Internet of Things & Smart Cities specialization from University of Petroleum and Energy Studies. <br>
+⚡ Fun fact: Love experimenting on Cloud Technologies.
+
+<a href="https://www.linkedin.com/in/gourav-arora-b6681a152/">
+  <img align="left" alt="gourav's LinkedIn" src="https://img.icons8.com/dusk/2x/50/linkedin.png"/>
+</a>
+
+<a href="https://www.instagram.com/_.gouravarora._/?hl=en/">
+  <img align="left" alt="gourav's instagram" src="<img src="https://img.icons8.com/dusk/64/000000/instagram.png"/>
+</a>
+
+
+
+<a href="mailto:gouravarora035@gmail.com">
+  <img align="left" alt="gourav's Email" src="https://img.icons8.com/dusk/2x/50/gmail.png"/>
+</a>
