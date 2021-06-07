@@ -5,7 +5,7 @@
 ⚡ Fun fact: Love experimenting on Cloud Technologies.
 
 
-
+<br>
 
 <a href="https://www.linkedin.com/in/gourav-arora-b6681a152/">
   <img align="left" alt="gourav's LinkedIn" src="https://img.icons8.com/dusk/2x/50/linkedin.png"/>
