@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" width="500" />
+ <img style="test-align: center"src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" width="500" />
 
 <h2> Hey, I'm Gourav!</h2>
 🔭 Computer Science student with a demonstrated history of working on several projects. Skilled in various domains of Computer Science with a Bachelor of Technology - BTech in CSE with specialization in Internet of Things & Smart Cities specialization from University of Petroleum and Energy Studies. <br>
