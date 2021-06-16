@@ -29,7 +29,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Garoradua" alt="Garoradua" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garoradua&show_icons=true&locale=en&layout=compact" alt="Garoradua" /></p><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garoradua&show_icons=true&locale=en&layout=compact" alt="Garoradua" /></p><br><br><br><br>
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Garoradua&show_icons=true)  
 
