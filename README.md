@@ -3,6 +3,7 @@
  <img style="display:block; margin: 0 auto;" src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" width="500" />
 
 <h2> Hey, I'm Gourav!</h2>
+<h3>Web Developer and Cloud Engineer</h3>
 🔭 Computer Science student with a demonstrated history of working on several projects. Skilled in various domains of Computer Science with a Bachelor of Technology - BTech in CSE with specialization in Internet of Things & Smart Cities specialization from University of Petroleum and Energy Studies. <br>
 ⚡ Fun fact: Love experimenting on Cloud Technologies.
 
@@ -27,10 +28,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Garoradua&label=Profile%20views&color=0e75b6&style=flat" alt="Garoradua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Garoradua" alt="Garoradua" /></a></p><br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Garoradua" alt="Garoradua" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garoradua&show_icons=true&locale=en&layout=compact" alt="Garoradua" /></p><br><br><br><br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garoradua&show_icons=true&locale=en&layout=compact" alt="Garoradua" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Garoradua&show_icons=true)  
 
