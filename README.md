@@ -23,8 +23,9 @@
   <img align="left" alt="gourav's Email" src="https://img.icons8.com/dusk/2x/50/gmail.png"/>
 </a>
 <br>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Garoradua&label=Profile%20views&color=0e75b6&style=flat" alt="Garoradua" /> </p><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Garoradua&label=Profile%20views&color=0e75b6&style=flat" alt="Garoradua" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Garoradua" alt="Garoradua" /></a></p><br><br>
 
