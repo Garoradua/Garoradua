@@ -1,6 +1,6 @@
   
  
- <img style="display:block; margin: 0 auto;" src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" width="300" />
+ <img style="display:inline-block; margin: 0 auto;" src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" width="300" />
 
 <h2> Hey, I'm Gourav!</h2>
 <h3>Web Developer and Cloud Engineer</h3>
