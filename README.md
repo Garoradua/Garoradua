@@ -36,6 +36,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Garoradua)  
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Garoradua)   -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Garoradua&theme=highcontrast)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Garoradua&theme=highcontrast)](https://git.io/streak-stats) -->
 
 
