@@ -1,6 +1,6 @@
   
 
- <img style="width: 20%" src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" />
+ <img style="width: 60%" src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" />
 
 <h2> Hey, I'm Gourav!</h2>
 <h3>Web Developer and Cloud Engineer</h3>
