@@ -31,11 +31,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garoradua&show_icons=true&locale=en&layout=compact" alt="Garoradua" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Garoradua&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Garoradua&show_icons=true)   -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Garoradua)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Garoradua)   -->
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Garoradua)   -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Garoradua&theme=highcontrast)](https://git.io/streak-stats) 
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Garoradua&theme=highcontrast)](https://git.io/streak-stats)  -->
 
 
