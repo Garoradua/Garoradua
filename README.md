@@ -9,7 +9,7 @@
 
 <br>
 <br>
-<h5>My portfolio : <a href="https://garoradua.github.io/Gourav_Portfolio.github.io/" /></h5>
+<h5>My portfolio : <a href="https://garoradua.github.io/Gourav_Portfolio.github.io/" /></a></h5>
 <a href="https://www.linkedin.com/in/gourav-arora-b6681a152/">
   <img align="left" alt="gourav's LinkedIn" src="https://img.icons8.com/dusk/2x/50/linkedin.png"/>
 </a>
