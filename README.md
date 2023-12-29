@@ -4,8 +4,9 @@
 
 <h2> Hey, I'm Gourav!</h2>
 <h3>Web Developer and Cloud Engineer</h3>
-🔭 Computer Science student with a demonstrated history of working on several projects. Skilled in various domains of Computer Science with a Bachelor of Technology - BTech in CSE with specialization in Internet of Things & Smart Cities specialization from University of Petroleum and Energy Studies. <br>
-⚡ Fun fact: Love experimenting on Cloud Technologies.
+🔭 Software Engineer - full Stack Developer
+currently working in Quick Heal Pvt. Ltd. <br>
+⚡ Fun fact: Love experimenting on web Technologies.
 
 <br>
 <br>
